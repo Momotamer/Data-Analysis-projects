@@ -54,7 +54,7 @@ The interactive dashboard includes:
 The analysis covers 23,906 car sales records with total sales of approximately $671.5 million. The dashboard enables users to explore sales patterns and compare performance across different categories and regions.
 
 ## Project Files
-- Car Sales Project DA.xlsx
+- [Download Car Sales Project DA.xlsx](../Car%20Sales%20Project%20DA.xlsx)
 
 ## Skills Demonstrated
 - Data Analysis
